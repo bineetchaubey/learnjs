@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 98 98" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="radar" transform="translate(1.000000, 1.000000)" stroke="#3772B7">
+            <circle id="Oval" opacity="0.01" cx="48" cy="48" r="48"></circle>
+            <path d="M48,41 L44.2,51.2 C44.2,51.2 47.9,48.6 51.8,51.2 C50.8,48.1 48,41 48,41 Z" id="Shape" stroke-width="0.7964" fill="#3772B7" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

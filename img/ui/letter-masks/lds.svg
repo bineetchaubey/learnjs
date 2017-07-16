@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 917 848" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LDS" transform="translate(10.000000, 10.000000)">
+            <polygon id="side_4" fill="#ADADAD" points="220.250226 203.48457 366 390.590609 366 629.988894 220.250226 746.315255"></polygon>
+            <polygon id="side_3" fill="#ADADAD" points="222.356688 197.797213 596.291121 288.339086 449.348245 403.585809 368.452357 383.973751"></polygon>
+            <polygon id="side_2" fill="#ADADAD" transform="translate(408.436411, 736.590058) scale(-1, -1) translate(-408.436411, -736.590058) " points="222.493255 635.486262 594.379566 721.772465 449.400994 837.693855 367.931897 819.303293"></polygon>
+            <polyline id="Line" stroke="#FAFAFA" stroke-width="20" stroke-linecap="square" points="0.0607091963 0.548894484 0.0607091963 484.453456 856.349017 484.453456 856.349017 264.690464 621.078092 264.690464 621.078092 40.5217936 852.016717 40.5217936"></polyline>
+            <polyline id="Line" stroke="#FAFAFA" stroke-width="20" stroke-linecap="square" points="40.0607092 40.7195161 40.0607092 444.453456 896.349017 444.453456 896.349017 224.690464 661.078092 224.690464 661.078092 0.521793582 892.016717 0.521793582"></polyline>
+            <polygon id="side_1" fill="#ADADAD" points="451.227591 409.767191 597.806099 294.108806 597.806099 832.356006 451.227591 647.147003"></polygon>
+        </g>
+    </g>
+</svg>
