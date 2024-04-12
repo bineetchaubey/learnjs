@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+
+.SliderContainer{
+    width: 1000px;
+    height:300px;
+    position: relative;
+    margin: 20px auto;
+    overflow: hidden;
+}
+.SliderContainerUl{
+    list-style-type: none;
+    height: 100%;
+    width: 100%;
+}
+.slider{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    transition: All  linear 700ms;
+}
