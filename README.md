@@ -1,4 +1,4 @@
-\*\*\*this is example for slider plugin
+###this is example for slider plugin
 
 Use following code to generate slider
 
