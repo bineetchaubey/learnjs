@@ -94,3 +94,54 @@ function finmacCharFromStringTomakepanidrom(str){
       return  count
 }
 console.log('number of ch count for panidrom', finmacCharFromStringTomakepanidrom('aaplabp'));
+
+
+let currentarr = [1, 4, 20, 3, 10, 5], sum = 25 ;
+
+
+function findSunIndex(arr,sum){
+    
+     let currentSum = 0;
+    for(i=0; i< arr.length ; i++){
+
+      currentSum = arr[i];
+
+        if(currentSum == sum){
+          console.log("Sum found at indexes " +i);
+          return;
+        }else{
+
+          for(j = i+1; j< arr.length; j++){
+            currentSum  += arr[j];
+            if(currentSum == sum ){
+              console.log("Sum found at indexes " +i + ' and '+ j);
+              return;
+            }
+           
+          }
+
+        }
+
+        
+
+
+    }
+    console.log("No subarray found");
+    return;
+} 
+
+findSunIndex(currentarr,sum)
+
+
+function sum1(a){
+     return function(b){
+      if(!b){
+        return a;
+      }
+       return sum1(a+b);
+     }
+}
+
+console.log('infinite currying function',sum1(4)(4)(7)())
+
+///  
